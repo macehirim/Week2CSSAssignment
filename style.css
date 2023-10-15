@@ -1,0 +1,44 @@
+h1 {
+    color: #0f5c92;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.maintitle {
+    font-family: 'Archivo Black', sans-serif;
+}
+h2 {
+    color: #bf9000;
+    font-family: 'Chakra Petch', sans-serif;
+}
+#jobtitle {
+    color: #0f5c92;
+}
+p {
+    font-family: 'Young Serif', serif;
+}
+img {
+    border: solid; border-color: black; border-width: 5px;
+}
+input {
+    background-color: #bf9000;
+}
+::placeholder {
+    color: white;
+}
+h3 {
+    font-family: 'Chakra Petch', sans-serif;
+    color: #0f5c92;
+}
+li {
+    font-family: 'Tilt Neon', sans-serif;
+}
+th {
+    font-family: 'Chakra Petch', sans-serif;
+    color: #bf9000;
+}
+td {
+    font-family: 'Tilt Neon', sans-serif;
+}
+button {
+    background-color: #0f5c92;
+    color: white;
+}
